@@ -8,7 +8,7 @@
 ### 개발환경
 * Framework : Spring
 * Language : Java
-* Database : MySQL
+* Database : MariaDB
 ## Demo
 Youtube Link : https://www.youtube.com/watch?v=2uvQ9wtYU-o
 
